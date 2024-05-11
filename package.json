@@ -1,6 +1,6 @@
 {
-  "name": "t6s18_mysimplecalculator",
-  "version": "1.0.0",
+  "name": "t6s1_mysimplecalculator",
+  "version": "2.0.2",
   "description": "A simple calculator with typescript, node and inquirer",
   "main": "index.js",
   "type": "module",
